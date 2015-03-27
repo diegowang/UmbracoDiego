@@ -1,0 +1,8 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+@{
+    Html.RenderPartial("~/Views/Partials/_LunchForm.cshtml", new UmbracoDiego.Models.Lunch());
+}

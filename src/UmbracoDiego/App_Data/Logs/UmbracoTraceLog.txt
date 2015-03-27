@@ -1,0 +1,84 @@
+﻿2015-03-27 01:47:59,784 [22] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-01-26 01:47:59
+2015-03-27 11:11:07,154 [22] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 11:11:07
+2015-03-27 11:12:33,584 [22] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 11:12:33
+2015-03-27 11:13:59,975 [22] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 11:13:59
+2015-03-27 11:15:26,373 [22] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 11:15:26
+2015-03-27 11:16:52,768 [22] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 11:16:52
+2015-03-27 11:18:19,168 [22] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 11:18:19
+2015-03-27 11:19:45,559 [22] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 11:19:45
+2015-03-27 11:21:11,953 [22] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 11:21:11
+2015-03-27 11:22:38,348 [22] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 11:22:38
+2015-03-27 11:24:04,702 [22] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 11:24:04
+2015-03-27 11:25:31,095 [22] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 11:25:31
+2015-03-27 11:26:57,486 [22] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 11:26:57
+2015-03-27 11:28:23,877 [22] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 11:28:23
+2015-03-27 11:29:50,266 [22] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 11:29:50
+2015-03-27 11:31:16,661 [22] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 11:31:16
+2015-03-27 11:32:43,054 [22] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 11:32:43
+2015-03-27 11:34:09,448 [22] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-01-26 11:34:09
+2015-03-27 11:35:35,838 [22] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 11:35:35
+2015-03-27 11:37:02,231 [22] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-01-26 11:37:02
+2015-03-27 11:38:28,622 [22] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 11:38:28
+2015-03-27 11:39:55,017 [22] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-01-26 11:39:55
+2015-03-27 11:41:21,405 [22] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-01-26 11:41:21
+2015-03-27 11:42:47,840 [22] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 11:42:47
+2015-03-27 11:44:14,260 [22] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 11:44:14
+2015-03-27 11:45:40,688 [22] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 11:45:40
+2015-03-27 11:47:07,106 [22] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-01-26 11:47:07
+2015-03-27 11:48:33,524 [22] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 11:48:33
+2015-03-27 11:49:59,941 [22] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 11:49:59
+2015-03-27 11:50:43,686 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2015-03-27 11:50:43,733 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 34ms)
+2015-03-27 11:50:43,749 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2015-03-27 11:50:43,764 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 37 (took 22ms)
+2015-03-27 11:50:43,905 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2015-03-27 11:50:43,905 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 1ms)
+2015-03-27 11:50:43,905 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2015-03-27 11:50:43,905 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 16 (took 0ms)
+2015-03-27 11:50:43,936 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2015-03-27 11:50:43,936 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 6 (took 1ms)
+2015-03-27 11:50:43,936 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2015-03-27 11:50:43,936 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 48 (took 3ms)
+2015-03-27 11:50:43,983 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2015-03-27 11:50:43,983 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2015-03-27 11:50:43,983 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2015-03-27 11:50:43,998 [12] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 4ms)
+2015-03-27 11:50:45,600 [12] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2015-03-27 11:50:45,803 [12] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2015-03-27 11:50:46,193 [12] INFO  Umbraco.Web.UmbracoModule - [Thread 30] Setting OriginalRequestUrl: localhost:80/umbraco
+2015-03-27 11:50:47,847 [22] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 27] Application shutdown. Reason: ConfigurationChange
+2015-03-27 11:51:46,874 [12] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 11:51:46
+2015-03-27 11:53:13,148 [12] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 11:53:13
+2015-03-27 11:54:39,533 [12] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 11:54:39
+2015-03-27 11:56:05,927 [12] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-01-26 11:56:05
+2015-03-27 11:57:32,325 [12] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 11:57:32
+2015-03-27 11:58:58,750 [12] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 11:58:58
+2015-03-27 12:00:25,171 [12] INFO  umbraco.BusinessLogic.Log - [Thread 30] Log scrubbed.  Removed all items older than 2015-01-26 12:00:25
+2015-03-27 12:01:51,585 [12] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-01-26 12:01:51
+2015-03-27 13:02:46,421 [12] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-01-26 13:02:46
+2015-03-27 14:03:42,610 [12] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-01-26 14:03:42
+2015-03-27 14:57:14,675 [12] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 14:57:14
+2015-03-27 14:58:41,065 [12] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-01-26 14:58:41
+2015-03-27 15:06:30,429 [12] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-01-26 15:06:30
+2015-03-27 15:07:54,490 [12] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-01-26 15:07:54
+2015-03-27 15:09:21,096 [12] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 15:09:21
+2015-03-27 15:10:47,736 [12] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 15:10:47
+2015-03-27 15:12:14,332 [12] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-01-26 15:12:14
+2015-03-27 15:13:40,927 [12] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-01-26 15:13:40
+2015-03-27 15:15:07,558 [12] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 15:15:07
+2015-03-27 15:16:34,164 [12] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 15:16:34
+2015-03-27 15:18:00,792 [12] INFO  umbraco.BusinessLogic.Log - [Thread 32] Log scrubbed.  Removed all items older than 2015-01-26 15:18:00
+2015-03-27 15:19:27,407 [12] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-01-26 15:19:27
+2015-03-27 15:20:54,031 [12] INFO  umbraco.BusinessLogic.Log - [Thread 15] Log scrubbed.  Removed all items older than 2015-01-26 15:20:54
+2015-03-27 15:22:20,663 [12] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-01-26 15:22:20
+2015-03-27 15:23:45,164 [12] INFO  umbraco.BusinessLogic.Log - [Thread 29] Log scrubbed.  Removed all items older than 2015-01-26 15:23:45
+2015-03-27 15:25:12,192 [12] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 15:25:12
+2015-03-27 15:26:39,184 [12] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 15:26:39
+2015-03-27 15:28:06,168 [12] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 15:28:06
+2015-03-27 15:29:30,902 [12] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 15:29:30
+2015-03-27 15:30:57,672 [12] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 15:30:57
+2015-03-27 15:32:24,432 [12] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 15:32:24
+2015-03-27 15:33:51,182 [12] INFO  umbraco.BusinessLogic.Log - [Thread 23] Log scrubbed.  Removed all items older than 2015-01-26 15:33:51
+2015-03-27 15:35:17,852 [12] INFO  umbraco.BusinessLogic.Log - [Thread 28] Log scrubbed.  Removed all items older than 2015-01-26 15:35:17
+2015-03-27 15:36:44,529 [12] INFO  umbraco.BusinessLogic.Log - [Thread 27] Log scrubbed.  Removed all items older than 2015-01-26 15:36:44
+2015-03-27 15:38:11,200 [12] INFO  umbraco.BusinessLogic.Log - [Thread 19] Log scrubbed.  Removed all items older than 2015-01-26 15:38:11

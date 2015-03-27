@@ -1,0 +1,14 @@
+{
+  "id": "af4cb5d7-a5b5-4f8f-a010-92ddffc84421",
+  "name": "Send email to hwang@nd.edu when submitted",
+  "form": "bc58864c-6152-4aa6-ac13-3c82b97faeb7",
+  "active": true,
+  "workflowTypeId": "e96badd7-05be-4978-b8d9-b3d733de70a5",
+  "executesOn": "Submitted",
+  "settings": {
+    "Email": "hwang@nd.edu",
+    "Subject": "the form Test Form was submitted",
+    "Message": "the form Test Form was submitted, this is the list of values it contained, you can turn this email off under workflows in Umbraco Contour"
+  },
+  "sortOrder": 0
+}
